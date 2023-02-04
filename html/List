@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+<title>
+    LIST
+</title>
+    </head>
+    <body>
+        <ul>
+            <li> First thing</li>
+            <li> Second thing</li>
+            <li> Third thing</li>
+        </ul>
+        <ol>
+            <li> January  </li>
+            <li> February </li>
+            <li> March    </li>
+            <li> April    </li>
+        </ol>
+    </body>
+</html>
